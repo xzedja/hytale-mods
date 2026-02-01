@@ -1,3 +1,3 @@
-https://media.forgecdn.net/files/1234/567/elemental-swords-1.0.jar
-https://media.forgecdn.net/files/1234/568/expanded-necromancy-1.0.jar
-https://media.forgecdn.net/files/1234/569/hychute-1.0.jar
+https://mediafilez.forgecdn.net/files/7552/740/elemental_swords_v2.1.zip
+https://mediafilez.forgecdn.net/files/7554/219/Hychute.jar
+https://mediafilez.forgecdn.net/files/7551/456/ExpandedNecromancy-0.10.0.zip
