@@ -15,7 +15,6 @@ https://mediafilez.forgecdn.net/files/7602/215/BetterWindows1.0.1.zip
 https://mediafilez.forgecdn.net/files/7620/883/BetterLanterns1.0.0.zip
 https://mediafilez.forgecdn.net/files/7617/218/BetterFences2.0.0.zip
 https://mediafilez.forgecdn.net/files/7577/74/Mermaids-1.3.5.jar
-https://mediafilez.forgecdn.net/files/7612/786/TELACOOLDOWN.zip
 
 # Dependencies
 https://mediafilez.forgecdn.net/files/7466/383/ItemStateChanger-1.0.0.jar
