@@ -21,6 +21,7 @@ https://mediafilez.forgecdn.net/files/7633/436/SimpleElevator-2.8.87.jar
 https://mediafilez.forgecdn.net/files/7466/383/ItemStateChanger-1.0.0.jar
 https://mediafilez.forgecdn.net/files/7569/970/Hytalor-2.1.jar
 https://mediafilez.forgecdn.net/files/7540/592/UnifiedMagicTheory-1.2.3.jar
+https://mediafilez.forgecdn.net/files/7633/436/SimpleElevator-2.8.87.jar
 
 # Mob Mods
 https://mediafilez.forgecdn.net/files/7561/319/Kami.OreGolems-1.0.3.zip
