@@ -14,7 +14,7 @@ https://mediafilez.forgecdn.net/files/7617/218/BetterFences2.0.0.zip
 https://mediafilez.forgecdn.net/files/7644/747/BetterBeams1_0_3.zip
 https://mediafilez.forgecdn.net/files/7660/658/SimpleElevator-2.10.89.jar
 https://mediafilez.forgecdn.net/files/7655/539/JurassicTale-1.1.0.jar
-https://mediafilez.forgecdn.net/files/7452/29/NoCube_Tavern_0.0.2.zip
+https://mediafilez.forgecdn.net/files/7651/950/NoCube_Tavern_0.0.3.zip
 https://mediafilez.forgecdn.net/files/7649/914/BjaxusArches_0.3.1.zip
 https://mediafilez.forgecdn.net/files/7649/762/ZC.Gaia%27s%20Kitchen.zip
 # https://mediafilez.forgecdn.net/files/7543/728/Kazzy_Pets__Mounts.zip
@@ -50,7 +50,7 @@ https://mediafilez.forgecdn.net/files/7654/390/%5BDayBreak%5D%20Keyblade%20Armor
 
 
 # Magic Mods
-https://mediafilez.forgecdn.net/files/7658/785/Arcane_Power_V2.1.0.zip
+https://mediafilez.forgecdn.net/files/7655/446/Arcane_Power_V2.0.0.zip
 https://mediafilez.forgecdn.net/files/7658/220/Kinetica-0.9.0.jar
 
 # Dungeon Mods
