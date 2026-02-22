@@ -54,5 +54,6 @@ https://mediafilez.forgecdn.net/files/7658/785/Arcane_Power_V2.1.0.zip
 https://mediafilez.forgecdn.net/files/7658/220/Kinetica-0.9.0.jar
 
 # Dungeon Mods
-https://mediafilez.forgecdn.net/files/7639/463/Steamwrought%20Tomb-1.0.3.jar
 https://mediafilez.forgecdn.net/files/7657/215/MajorDungeons-0.3.0.jar
+
+
