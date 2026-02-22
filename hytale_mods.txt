@@ -36,7 +36,7 @@ https://mediafilez.forgecdn.net/files/7642/453/AncientConstructs-1.2.0.jar
 
 # Weapon Mods
 https://mediafilez.forgecdn.net/files/7656/689/BattleGauntlets-1.3.6.zip
-https://mediafilez.forgecdn.net/files/7641/408/Orbis-Galactic-Java-1.4.1.jar
+https://mediafilez.forgecdn.net/files/7644/901/Orbis-Galactic-Java-1.4.2.jar
 https://mediafilez.forgecdn.net/files/7632/106/Bleach-Reiryoku.zip
 https://mediafilez.forgecdn.net/files/7647/382/ZeldaGear-1.9.jar
 https://mediafilez.forgecdn.net/files/7654/390/%5BDayBreak%5D%20Keyblade%20Armory.zip
